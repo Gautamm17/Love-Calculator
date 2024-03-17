@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: yellow;
+    background-color: #Ffcccb;
+    border-radius: 25px;
+    margin-top: 0px;
+}
+
+p{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+
+}
+body{
+    background-color: lightyellow;
+}
+
+.shift {
+    font-size: 30px;
+    border-radius: 15px;
+}
